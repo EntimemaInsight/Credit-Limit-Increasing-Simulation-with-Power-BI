@@ -11,4 +11,15 @@ The Excel data source used in this simulation contains information about the cus
 3.	Credit Limits: It contains the current credit limits of each customer.
 4.	Payment History: It contains information about each customer's payment history, including the date of each payment and the amount paid.
 
+## Dashboard
 
+The dashboard in this simulation includes several filters and diagrams that help to visualize the data and the analysis.
+
+## Credit Limit Filters
+
+The Credit Limit Filters allow the user to select the credit limit increase amount and which clients to view. The options are:
+
+- 200 eur increase
+- 300 eur increase
+- 400 eur increase
+- All clients
