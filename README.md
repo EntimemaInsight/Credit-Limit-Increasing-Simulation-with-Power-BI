@@ -5,9 +5,10 @@ This project is a simulation of how credit limits can be increased using Power B
 ## Excel Sources
 
 The Excel data source used in this simulation contains information about the customers of a company, including their credit scores, credit limits, and payment history. The data is organized into several tables, including:
-•	Customers: It contains client information
-•	Credit Scores: It contains the credit scores of each customer, as reported by a credit bureau.
-•	Credit Limits: It contains the current credit limits of each customer.
-•	Payment History: It contains information about each customer's payment history, including the date of each payment and the amount paid.
+
+1. 	Customers: It contains client information
+2.	Credit Scores: It contains the credit scores of each customer, as reported by a credit bureau.
+3.	Credit Limits: It contains the current credit limits of each customer.
+4.	Payment History: It contains information about each customer's payment history, including the date of each payment and the amount paid.
 
 
