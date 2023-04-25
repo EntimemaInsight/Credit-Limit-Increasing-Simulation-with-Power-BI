@@ -4,7 +4,7 @@ This project is a simulation of how credit limits can be increased using Power B
 
 ## Usage
 
-The data used in this project is entirely fictional and intended solely for demonstration purposes. The data represents a sample of credit card sales data from a credit card company over the course of two years.
+The data used in this project is entirely fictional and intended solely for demonstration purposes. The data represents a credit card limit increasing simulation.
 
 ## Excel Sources
 
@@ -36,3 +36,16 @@ The projections are generated using MULTIPLE LINEAR REGRESSION ANALISYS based on
 For example, the company might use MULTIPLE LINEAR REGRESSION ANALISYS to determine the factors that have the greatest impact on a customer's creditworthiness, and then use that information to make decisions about increasing their credit limit.
 Suppose that the company conducts a MULTIPLE LINEAR REGRESSION ANALISYS using customer data and finds that credit score, payment history, and credit utilization are the most important factors in determining creditworthiness. Based on this analysis, they might use Power BI to develop a simulation that predicts the likelihood of a customer having their credit limit increased based on their credit score, payment history, and credit utilization.
 
+## Key Insights
+
+Some key insights that can be drawn from this simulation include:
+
+1. Credit scores, payment history, and credit utilization are important factors in determining a customer's creditworthiness.
+2. Customers with higher credit scores and payment history are more creditworthy and generate more revenue for the company.
+3. Multiple Regression Analysis can be used to forecast revenue growth and transactional amount growth based on customer data.
+4. By using the filters in the dashboard, the company can select which clients to view and adjust credit limits accordingly.
+5. The dashboard provides a visual representation of the company's customers and their creditworthiness, making it easier for decision-makers to understand the data.
+
+## Credits
+
+This project was created by Aleksandar Dimitrov and is licensed under the MIT License.
